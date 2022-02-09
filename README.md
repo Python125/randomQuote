@@ -1,3 +1,3 @@
 # randomQuote
 
-For random quotes, I decided to use the subject of philosophy
+For random quotes, I decided to use quotes from philosophy.

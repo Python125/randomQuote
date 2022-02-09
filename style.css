@@ -1,0 +1,33 @@
+body {
+    background-image: url(https://hdwallpaperim.com/wp-content/uploads/2017/08/31/163250-Raphael-Athens-philosophy-arch-architecture-painting-students-steps-classic_art-Socrates-Greek_philosophers.jpg);
+    opacity: 0.8;
+}
+
+#container {
+    background-color: #e7b34b;
+    border: 5px solid #F5E4C3;
+    height: 300px;
+    width: 750px;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+#btn {
+    margin: 50px auto;
+    height: 50px;
+    width: 250px;
+    font-size: 22px;
+    background-color: rgb(192, 191, 191);
+
+}
+
+#output {
+    margin: 25px auto;
+    font-size: 26px;
+    color: rgb(0, 0, 0);
+}

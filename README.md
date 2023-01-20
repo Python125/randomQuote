@@ -1,3 +1,3 @@
 # randomQuote
 
-I decided to use quotes from different philosophers. Most are Western philosophers from pre-Socratic, classical Greek, and modern philosophy, but there is one quote from a well known Chinese philosopher.
+I used quotes from different philosophers, from from pre-Socratic, classical Greek, and modern philosophy, and one quote from a well known Chinese philosopher.
